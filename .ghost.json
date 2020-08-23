@@ -1,6 +1,11 @@
 {
   "development": {
     "apiUrl": "http://localhost:2368",
-    "contentApiKey": " 1205a53af03c01e3557e27bfce "
+    "contentApiKey": "1205a53af03c01e3557e27bfce"
+  },
+  "production": {
+    "apiUrl": "quizzical-sammet-91a8b1.netlify.app",
+    "contentApiKey": "1205a53af03c01e3557e27bfce"
   }
 }
+
